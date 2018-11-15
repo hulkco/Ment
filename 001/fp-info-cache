@@ -1,4 +1,4 @@
-15623368244345385
+15658841523753528
 Battery
 9VFemale
 
@@ -42776,6 +42776,167 @@ heatsink
 0
 2
 1
+HG
+C_1206_HandSoldering
+Capacitor SMD 1206, hand soldering
+capacitor 1206
+0
+2
+2
+HG
+DIODE-SMA
+Diode SMA
+Diode SMA
+0
+2
+2
+HG
+FirmaCuMask
+Imported from HG.svg
+svg2mod
+0
+0
+0
+HG
+HG_Edge.SilkS.3
+Imported from HG_SilkS_Edge_Cuts.svg
+svg2mod
+0
+0
+0
+HG
+HG_SilkS.Back.2
+Imported from HG_SilkS_Edge_Cuts.svg
+svg2mod
+0
+0
+0
+HG
+HG_SmallLogo
+Imported from HG.svg
+svg2mod
+0
+0
+0
+HG
+H_CapSense
+Imported from HG.svg
+svg2mod
+0
+0
+0
+HG
+KiCad-Logo2_6mm_SilkScreen
+KiCad Logo
+Logo KiCad
+0
+0
+0
+HG
+LED_1206_HandSoldering
+LED SMD 1206, hand soldering
+LED 1206
+0
+2
+2
+HG
+Molex_PicoBlade_53261-0271_02x1.25mm_Angled
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+4
+2
+HG
+MountingHole_3.5mm_Pad
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+1
+1
+HG
+MSK12C02
+
+
+0
+5
+4
+HG
+OSHpark-1-1100
+
+
+0
+0
+0
+HG
+OSHpark-2-1800
+
+
+0
+0
+0
+HG
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+HG
+Pin_Header_Straight_1x02_Pitch2.54mm_SMD_Pin1Left
+surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x02 2.54mm single row style1 pin1 left
+0
+2
+2
+HG
+Pin_Header_Straight_1x03_Pitch2.54mm_SMD_Pin1Left
+surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left
+0
+3
+3
+HG
+Pin_Header_Straight_1x03_Pitch2.54mm_SMD_Pin1Right
+surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x03 2.54mm single row style2 pin1 right
+0
+3
+3
+HG
+Pin_Header_Straight_2x03_Pitch2.54mm_SMD
+surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x03 2.54mm double row
+0
+6
+6
+HG
+R_1206_HandSoldering
+Resistor SMD 1206, hand soldering
+resistor 1206
+0
+2
+2
+HG
+SOIJ-8_5.3x5.3mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+HG
+SOT-223-3Lead_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+HG
+WS2812B
+
+
+0
+4
+4
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height

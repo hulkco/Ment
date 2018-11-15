@@ -171,15 +171,4 @@ Wire Wire Line
 Wire Wire Line
 	6000 3150 6000 3450
 NoConn ~ 5475 3050
-$Comp
-L Ment:Edge P1
-U 1 1 5BEE5C88
-P 4250 5000
-F 0 "P1" H 4378 5046 50  0000 L CNN
-F 1 "Edge" H 4378 4955 50  0000 L CNN
-F 2 "Cozumel:Ment.All.01" H 4250 5000 50  0001 C CNN
-F 3 "" H 4250 5000 50  0001 C CNN
-	1    4250 5000
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
