@@ -1,4 +1,4 @@
-(module Pin2_Badge (layer F.Cu) (tedit 5C2F6ECA)
+(module Cozumel:Pin2_Badge (layer F.Cu) (tedit 5C2F6ECA)
   (fp_text reference REF** (at 0 7.62) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )

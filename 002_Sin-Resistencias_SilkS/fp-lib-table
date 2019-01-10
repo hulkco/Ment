@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Cozumel)(type KiCad)(uri ${KIPRJMOD}/Cozumel.pretty)(options "")(descr ""))
+  (lib (name HG)(type KiCad)(uri /home/greynaga/Documents/KiCad/github/HackerGarage/HG_Badge/HG_Con_Switch_OshPark/HG.pretty)(options "")(descr ""))
+)
